@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="amos-xfce"
-iso_label="amos-xfce-v22.07.02"
+iso_name="amos-xfce-dev"
+iso_label="amos-xfce-dev-v22.07.02"
 iso_application="AmOs Live/Rescue CD"
 iso_version="v22.07.02"
 install_dir="arch"

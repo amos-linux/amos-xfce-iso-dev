@@ -17,7 +17,7 @@ echo
 
 	amosVersion='v22.07.02'
 
-	isoLabel='amos-xfce-'$amosVersion'-x86_64.iso'
+	isoLabel='amos-xfce-dev'$amosVersion'-x86_64.iso'
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 64-1"
