@@ -1,4 +1,4 @@
-# amos-xfce-iso-git
+# amos-xfce-iso-dev-git
 
 With that github you can build your own amos-xfce-iso-dev
 
