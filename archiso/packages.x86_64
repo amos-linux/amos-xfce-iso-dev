@@ -455,8 +455,8 @@ conky-lua-archers-git
 grub-customizer
 inxi
 #i3lock-color
-pamac-aur
-libpamac-aur
+#pamac-aur
+#libpamac-aur
 paru-bin
 #peek
 pulseaudio-equalizer-ladspa
@@ -533,7 +533,7 @@ ttf-meslo-nerd-font-powerlevel10k
 ttf-ms-fonts
 halo-icons-git
 #visual-studio-code-bin
-#pfetch
+pfetch
 #shell-color-scripts
 amos-xfce-styles
 catppuccin-gtk-theme
@@ -564,8 +564,15 @@ edu-papirus-dark-tela-grey-git
 arcolinux-keyring
 arcolinux-mirrorlist-git
 archlinux-tweak-tool-git
-#archlinux-logout-git
-
+archlinux-logout-git
+archlinux-logout-themes-git
+arcolinux-pamac-all
+nordzy-icon-theme-git
+spotify
+spotify-adblock-git
+ttf-wps-fonts
+wps-office
+wps-office-mime
 
 ###########################################################################
 #                           AMOS CONFIG FOLDER
@@ -592,9 +599,8 @@ amos-system-installation-git
 #                                AMOS CONFIG CALAMARES
 ###########################################################################
 
-amos-calamares-xfce-config
-#amos-calamares-config-bspwm
-#amos-calamares-config-dev
+#amos-calamares-xfce-config
+amos-calamares-xfce-config-dev
 ###########################################################################
 #                                DISPLAY MANAGERS
 ###########################################################################

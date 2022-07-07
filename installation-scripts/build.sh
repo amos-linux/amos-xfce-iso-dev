@@ -15,12 +15,12 @@ echo
 	desktop="xfce"
 	dmDesktop="xfce"
 
-	amosVersion='v22.07.02'
+	amosVersion='v22.07.05'
 
-	isoLabel='amos-xfce-dev'$amosVersion'-x86_64.iso'
+	isoLabel='amos-xfce-'$amosVersion'-x86_64.iso'
 
 	# setting of the general parameters
-	archisoRequiredVersion="archiso 64-1"
+	archisoRequiredVersion="archiso 65-1"
 	buildFolder=$HOME"/amos-build"
 	outFolder=$HOME"/AmOs-Out"
 	archisoVersion=$(sudo pacman -Q archiso)
