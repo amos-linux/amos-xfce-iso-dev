@@ -294,13 +294,14 @@ gimp
 guvcview
 imagemagick
 inkscape
-#libreoffice-fresh
+libreoffice-fresh
 lshw
 meld
 nitrogen
 numlockx
 pragha
 qbittorrent
+ranger
 scrot
 simplescreenrecorder
 vlc
@@ -455,8 +456,8 @@ conky-lua-archers-git
 grub-customizer
 inxi
 #i3lock-color
-#pamac-aur
-#libpamac-aur
+pamac-aur
+libpamac-aur
 paru-bin
 #peek
 pulseaudio-equalizer-ladspa
@@ -559,20 +560,13 @@ edu-papirus-dark-tela-git
 edu-papirus-dark-tela-grey-git
 
 ############################################################################
-#                            ARCO Repos
+#                            ARCO 
 ###########################################################################
-arcolinux-keyring
-arcolinux-mirrorlist-git
+
 archlinux-tweak-tool-git
 archlinux-logout-git
 archlinux-logout-themes-git
-arcolinux-pamac-all
-nordzy-icon-theme-git
-spotify
-spotify-adblock-git
-ttf-wps-fonts
-wps-office
-wps-office-mime
+
 
 ###########################################################################
 #                           AMOS CONFIG FOLDER
@@ -594,7 +588,7 @@ amos-dconf-git
 
 amos-calamares
 amos-system-installation-git
-
+#amos-welcome
 ###########################################################################
 #                                AMOS CONFIG CALAMARES
 ###########################################################################
@@ -611,13 +605,13 @@ accountsservice
 #sddm
 sddm
 sddm-config-editor-git
-
+multicolor-sddm-theme
+otf-raleway
 ##########################################################################
 #				     		GRUB-THEMES                                  #
 ##########################################################################	
-#amos-cyberpunk-git
-#amos-alien-grub-theme-git
 
+amos-grub-poly-light
 ###########################################################################
 #                         PICOM OR COMPTON
 ###########################################################################
